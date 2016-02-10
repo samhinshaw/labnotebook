@@ -1,0 +1,6 @@
+language: R
+sudo: false
+env:
+  global:
+  - NOT_CRAN: true
+cache: packages
