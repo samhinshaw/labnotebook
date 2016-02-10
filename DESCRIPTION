@@ -1,8 +1,12 @@
 Package: labnotebook
-Title: What the Package Does (one line, title case)
-Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Title: Functions for Sam's Lab Notebook
+Version: 1.0
+Authors@R: person("Sam", "Hinshaw", email = "sam@hancocklab.com",
+			role = c("aut", "cre"))
+Description: This package contains some useful functions and
+			R Markdown templates for my lab notebook.
 Depends: R (>= 3.2.3)
 License: What license is it under?
 LazyData: true
+Imports:
+	dplyr
