@@ -4,5 +4,3 @@ env:
   global:
   - NOT_CRAN: true
 cache: packages
-bioc_required: true
-bioc_packages: preprocessCore, affy
