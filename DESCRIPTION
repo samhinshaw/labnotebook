@@ -11,7 +11,10 @@ License: GPL-3
 LazyData: true
 Imports:
     dplyr,
-    magrittr
+    magrittr,
+    preprocessCore,
+    Biobase,
+    affy
 RoxygenNote: 5.0.1
 Suggests: knitr,
     rmarkdown
