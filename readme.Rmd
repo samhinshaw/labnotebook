@@ -1,0 +1,18 @@
+---
+title: 'Lab Notebook R Packages'
+output: 
+  html_document:
+    toc: TRUE
+    keep_md: TRUE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This R package contains functions useful to my work in the Hancock Lab. 
+
+[![Build Status](https://travis-ci.org/samhinshaw/labnotebook.svg?branch=master)](https://travis-ci.org/samhinshaw/labnotebook)
+
+********
+This page was last updated on  `r format(Sys.time(), '%A, %B %d, %Y')` at `r format(Sys.time(), '%I:%M%p')`
