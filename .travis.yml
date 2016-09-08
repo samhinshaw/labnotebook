@@ -4,5 +4,11 @@ env:
   global:
   - NOT_CRAN: true
 cache: packages
+
+r-packages:
+- dplyr
+
 bioc_required: true
-bioc_packages: preprocessCore, affy
+bioc_packages:
+- preprocessCore
+- affy
