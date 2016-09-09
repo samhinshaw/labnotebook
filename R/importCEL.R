@@ -13,8 +13,6 @@
 #' @importFrom magrittr %<>%
 #' @importFrom dplyr tbl_df
 #'
-#' @examples
-#' importCEL(phenoData = phenoData)
 importCEL <- function(phenoData, ...){
 
 	affybatch <- affy::ReadAffy(phenoData = phenoData, celfile.path = ...) # read our Affy CEL files with the corresponding phenotype data
