@@ -8,6 +8,4 @@
 #' @importFrom affy ReadAffy
 #' @importFrom affy probes
 #' @import Biobase
-#' @import magrittr
-#' @import dplyr
 #' @importFrom preprocessCore normalize.quantiles

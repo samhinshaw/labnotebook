@@ -9,6 +9,9 @@
 #' @return data.frame (tbl_df)
 #' @export
 #'
+#' @importFrom magrittr %>%
+#' @importFrom magrittr %<>%
+#' @importFrom dplyr tbl_df
 #'
 #' @examples
 #' importCEL(phenoData = phenoData)
