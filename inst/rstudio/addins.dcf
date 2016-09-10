@@ -4,11 +4,11 @@ Binding: insertInAddin
 Interactive: false
 
 Name: Insert %<>%
-Description: Inserts `%in%` at the cursor position.
-Binding: insertInAddin
+Description: Inserts `%<>%` at the cursor position.
+Binding: insertBackPipe
 Interactive: false
 
 Name: Insert %T>%
-Description: Inserts `%in%` at the cursor position.
-Binding: insertInAddin
+Description: Inserts `%T>%` at the cursor position.
+Binding: insertTee
 Interactive: false

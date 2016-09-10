@@ -15,7 +15,8 @@ Imports:
     affy,
     magrittr,
     dplyr,
-    tibble
+    tibble,
+    rstudioapi
 RoxygenNote: 5.0.1
 Suggests: knitr,
     rmarkdown
