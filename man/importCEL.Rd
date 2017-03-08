@@ -18,4 +18,3 @@ data.frame (tbl_df)
 Import CEL files in the working directory and return the Quantile-Normalized
 perfect matches!
 }
-

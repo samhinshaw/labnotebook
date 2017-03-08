@@ -9,4 +9,3 @@ insertBackPipe()
 \description{
 Keyboard Shortcut for magrittr functions
 }
-

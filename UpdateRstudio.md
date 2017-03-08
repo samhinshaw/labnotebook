@@ -60,5 +60,6 @@ Let's work through this line:
 3. ` >> /home/shinshaw/scripts/logs/updateRstudio.log 2>&1`
 	+ This tells crontab to save the stdout of my script to `~/scripts/logs/updateRstudio.log`, and `2>&1` tells it to include stderr as well.  
 
+Then, save your crontab file and you're done! Congratulations! 
 
 
