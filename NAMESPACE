@@ -3,6 +3,7 @@
 export(foot.dist)
 export(importCEL)
 export(insertBackPipe)
+export(notNAs)
 importFrom(dplyr,tbl_df)
 importFrom(magrittr,"%<>%")
 importFrom(magrittr,"%>%")
