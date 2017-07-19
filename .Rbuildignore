@@ -1,2 +1,7 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^\.travis\.yml$
+^UpdateRstudio\.md$
+^readme\.Rmd$
+^readme\.html$
+^readme\.md$
