@@ -12,3 +12,8 @@ Name: Insert %T>%
 Description: Inserts `%T>%` at the cursor position.
 Binding: insertTee
 Interactive: false
+
+Name: Run App
+Description: Inserts `runApp()` at the cursor position.
+Binding: insertRunApp
+Interactive: false
