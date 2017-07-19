@@ -15,3 +15,7 @@ insertTee <- function() {
 insertInAddin <- function() {
 	rstudioapi::insertText(" %in% ")
 }
+
+insertRunApp <- function() {
+	rstudioapi::insertText(" library(shiny); runApp() ")
+}
