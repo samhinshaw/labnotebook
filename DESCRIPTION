@@ -10,9 +10,6 @@ Depends:
 License: GPL-3
 LazyData: true
 Imports:
-    preprocessCore,
-    Biobase,
-    affy,
     magrittr,
     dplyr,
     tibble,
