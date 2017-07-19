@@ -5,5 +5,5 @@
 #'
 #' @export
 insertRunApp <- function() {
-	rstudioapi::insertText(" library(shiny); runApp() ")
+	rstudioapi::insertText("library(shiny); runApp()")
 }
